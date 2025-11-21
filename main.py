@@ -7,7 +7,7 @@ SSID = "Wifi Sekolah B"
 PASSWORD = ""
 
 # Inisialisasi LED pada pin GPIO2 (LED built-in)
-led = Pin(22, Pin.OUT)
+led = Pin(2, Pin.OUT)
 
 # Fungsi untuk koneksi WiFi
 def connect_wifi():
