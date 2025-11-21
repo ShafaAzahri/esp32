@@ -3,7 +3,7 @@ import network
 import time
 
 # Konfigurasi WiFi - GANTI DENGAN SSID DAN PASSWORD ANDA
-SSID = "Wifi Sekolah B"
+SSID = ""
 PASSWORD = ""
 
 # Inisialisasi LED pada pin GPIO2 (LED built-in)
